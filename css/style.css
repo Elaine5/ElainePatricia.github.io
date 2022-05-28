@@ -98,8 +98,8 @@ select {
 }
 
 .section .container {
-  padding-top: 60px;
-  padding-bottom: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .section-title {
   -ms-flex: 0 0 100%;
@@ -155,7 +155,7 @@ select {
 
 /*configurações do meio da home*/
 .container {
-  max-width: 1100px;
+  max-width: 1000px;
   width: 100%;
   margin: auto;
 }
@@ -348,9 +348,9 @@ select {
 .home .intro h1 {
   font-size: 40px;
   font-family: "Open Sans", sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   color: var(--color-title);
-  margin: 20px 0 5px;
+  margin: 10px 0 0px;
 }
 
 .home .intro p {
